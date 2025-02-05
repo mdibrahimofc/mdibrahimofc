@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/4w9DTyFy/Ibrahim.png)
+![Banner](https://i.imgur.com/FGTBvSu.png)
 
 # 👋 Hi, I'm Md Ibrahim
 
