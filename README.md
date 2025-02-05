@@ -20,6 +20,7 @@ I'm a passionate web developer specializing in the **MERN Stack** (MongoDB, Expr
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdibrahimofc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ibrahim-624b05315/)
 [![Phone](https://img.shields.io/badge/Phone-01860373652-brightgreen?style=for-the-badge)](tel:01860373652)
+[![Gmail](https://img.shields.io/badge/Gmail-mdibrahimrj314@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdibrahimrj314@gmail.com)
 
 ---
 
