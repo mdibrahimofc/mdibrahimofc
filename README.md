@@ -1,4 +1,4 @@
-![Banner](https://as2.ftcdn.net/v2/jpg/02/83/46/33/1000_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg)
+![Banner](https://i.ibb.co.com/4w9DTyFy/Ibrahim.png)
 
 # 👋 Hi, I'm Md Ibrahim
 
